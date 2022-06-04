@@ -5,6 +5,7 @@ The structure of the repository is following. There are month wise folders and i
 1) Solution.java which is the implementation of the solution of the problem.
 2) Main.java which is the driver code, used to run our solution and verify the answer.
 
+```bash
 .
 ├── June-2022
 │   └── June4
@@ -14,5 +15,6 @@ The structure of the repository is following. There are month wise folders and i
 |   ................
 | 
 └── README.md
+```
 
 
